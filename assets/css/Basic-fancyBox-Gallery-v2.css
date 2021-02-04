@@ -1,5 +1,9 @@
-.fbox3 > div[class*="col"] {
-  padding-top: 5px;
-  padding-bottom: 5px;
+body {
+  align-self: center;
+}
+
+video {
+  display: block;
+  margin: auto;
 }
 
