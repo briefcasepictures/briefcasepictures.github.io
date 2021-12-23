@@ -1,21 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-    <url>
-        <loc>https://briefcasefilms.cf/sitemap.xml/adunpassodate.html</loc>
-    </url>
-    <url>
-        <loc>https://briefcasefilms.cf/sitemap.xml/assodipicche.html</loc>
-    </url>
-    <url>
-        <loc>https://briefcasefilms.cf/sitemap.xml/frammentidianimemeccaniche.html</loc>
-    </url>
-    <url>
-        <loc>https://briefcasefilms.cf/sitemap.xml/ilprimoappuntamento.html</loc>
-    </url>
-    <url>
-        <loc>https://briefcasefilms.cf/sitemap.xml/index.html</loc>
-    </url>
-    <url>
-        <loc>https://briefcasefilms.cf/sitemap.xml/lalogicadirobin.html</loc>
-    </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://briefcasefilms.cf/</loc>
+  <lastmod>2021-12-22T10:24:15+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://briefcasefilms.cf/index.html</loc>
+  <lastmod>2021-12-22T10:24:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://briefcasefilms.cf/frammentidianimemeccaniche.html</loc>
+  <lastmod>2021-12-22T10:24:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://briefcasefilms.cf/lalogicadirobin.html</loc>
+  <lastmod>2021-12-22T10:24:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://briefcasefilms.cf/ilprimoappuntamento.html</loc>
+  <lastmod>2021-12-22T10:24:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://briefcasefilms.cf/adunpassodate.html</loc>
+  <lastmod>2021-12-22T10:24:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://briefcasefilms.cf/assodipicche.html</loc>
+  <lastmod>2021-12-22T10:24:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
